@@ -1,0 +1,6 @@
+oracle db name: ORCL
+stack name: DMSdemo
+oracle db username: oraadmin
+paswd: password
+aurora db : auradmin
+paswd: password
